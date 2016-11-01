@@ -20,6 +20,7 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
         print()
         // So this is in 'try-branch' now? 
+        // Try if branch appears again.
     }
 
 
